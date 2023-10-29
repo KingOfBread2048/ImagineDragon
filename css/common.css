@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  min-height: 120vh;
+  background-color :#111724;
+}
+
+.navlink-active {
+  background-color: white;
+  color: black;
+  border-radius: 4px;
+}
+
+.container {
+  max-width: 90%;
+  margin: auto;
+}
+
+.background {
+  height: auto;
+}
+

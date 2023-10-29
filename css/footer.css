@@ -1,0 +1,38 @@
+footer {
+    margin-top: 40px;
+    background-color: black;
+    padding-top: 9px;
+}
+
+footer .container {
+    margin-left: 473px;
+    margin-bottom: 5px;
+    display: flex;
+    color: white;
+    gap: 40px;
+}
+
+footer .icon-footer {
+    height: 20px;
+    width: auto;
+    margin-top: 16px;
+    display: flex;
+    gap:14px;
+}
+
+footer .icon-footer i:hover{
+    color:#50add1;
+    transition: 0.5ms;
+}
+
+footer .text-footer {
+    display: flex;
+    font-size: 13px;
+    gap: 16px;
+    color:gray;
+}
+
+footer .text-footer p:hover {
+  color: #50add1;
+  transition: 0.5ms;
+}

@@ -1,0 +1,53 @@
+.get-email .email nav h1 {
+    font-family: cursive;
+    font-weight: 50;
+}
+
+.get-email .new-letter {
+    color:white;
+    display: block;
+    margin:auto;
+    width: 70%;
+    font-family:serif;
+}
+
+.get-email .new-letter .group-input {
+    background-color:#111724 ;
+    border-bottom: .0625rem solid #fff;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    width: 100%;
+}
+
+.get-email .new-letter .group-input:focus {
+    outline: 0;
+}
+
+.get-email .new-letter h1 {
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.get-email .new-letter .terms {
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.get-email .button {
+    background-color:#111724;
+    display: block;
+    width: fit-content;
+    margin: auto;
+    width: 180px;
+    height: 53px;
+    border-color:white ;
+    color:white;
+    margin-top: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.get-email .button:hover {
+    background-color:white;
+    color: black;
+}

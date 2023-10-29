@@ -1,0 +1,14 @@
+.my-slider {
+  margin-top: 18px;
+  padding-bottom: -24.4px;
+}
+
+.slick-next.slick-arrow {
+  right:25px;
+  z-index: 9;
+}
+
+.slick-prev {
+  left: 25px;
+  z-index: 9;
+}

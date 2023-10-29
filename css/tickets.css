@@ -1,0 +1,42 @@
+.tickets {
+    background-color: black;
+    padding-bottom: 150px;
+}
+
+.ticket {
+    display: flex;
+    top:75px;
+    position: relative;
+}
+
+
+.ticket .right {
+    width: 25px;
+    background-color: #50add1;
+    margin-right: 300px;
+    font-size: 100px;
+}
+
+.ticket .center {
+    flex: 1 1 auto;
+    width: auto;
+    background-color: white;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tickets .container .ticket .left {
+    width: 68px;
+    height: 144px;
+    background-color: #50add1;
+    margin-left: 300px;
+    font-size: 18;
+    font-weight: 700;
+    text-align: center;
+    flex-direction: column-reverse;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
